@@ -1,2 +1,0 @@
-# dotnvim
-neovim configuration
